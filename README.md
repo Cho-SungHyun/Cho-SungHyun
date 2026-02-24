@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Seonghyun Cho 👋
 
-<!--
-**Cho-SungHyun/Cho-SungHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | Machine Learning Engineer | AWS Certified ML Specialist
 
-Here are some ideas to get you started:
+I am a Data Scientist with an **MSc in Artificial Intelligence** and a **BSc in Computer Science**. Currently, at **Living Optics**, I specialise in building production-ready ML solutions, focusing on **Multimodal Fusion**, **MLOps**, and **Statistical Optimisation**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bridge the gap between advanced R&D and commercial scalability, ensuring data integrity through rigorous unit testing and automated validation.
+
+---
+
+### 🛠 Technical Toolkit
+- **Languages:** Python (Expert), SQL (Expert), MATLAB, HTML/CSS
+- **Frameworks:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy
+- **Specialties:** Multimodal Learning, Late Fusion CNNs, Bayesian Optimisation (BOHB)
+- **Cloud & DevOps:** AWS (Certified ML Specialist), Git, Unit Testing, CI/CD Workflows
+
+---
+
+### 📚 Featured Research & Projects
+
+#### [Music Genre Classification via Late Fusion CNN](https://github.com/Cho-SungHyun/Music-Genre-Classification-using-Late-Fusion)
+- Implementation of the **Late Fusion** strategy using STFT, MLS, and MFCC spectral features.
+- Comparative analysis of multi-modal features for enhanced classification accuracy.
+- *Published in IEEE Access, 2024.*
+
+#### [Efficient Neural Network for CT Image Analysis](https://github.com/Cho-SungHyun/An-Efficient-Neural-Network-based-on-Early-Compression-of-Sparse-CT-Slice-Images)
+- Research on channel compression techniques to accelerate medical image processing.
+- Focus on balancing computational efficiency with diagnostic precision.
+
+#### [Automated Hyperparameter Optimisation](https://github.com/Cho-SungHyun/assignment-machine-learning)
+- Practical applications of model selection and optimisation techniques.
+
+---
+
+### 📈 Certifications & Achievements
+- **AWS Certified Machine Learning – Specialty** (2024)
+- **Lead Author**, "Snapshot HSI Integration for Quality Assessment," *SPIE*, 2025.
+- **Lead Author**, "CNN-based Music Genre Classification using Multiple Spectral Features," *IEEE Access*, 2024.
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/seonghyun-cho/) | [Email](mailto:saintcho94@gmail.com) | [Portfolio](https://cho-sunghyun.github.io/)
