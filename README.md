@@ -18,12 +18,12 @@ I bridge the gap between advanced R&D and commercial scalability, ensuring data 
 
 ### 📚 Featured Research & Projects
 
-#### [Music Genre Classification via Late Fusion CNN](https://github.com/Cho-SungHyun/Music-Genre-Classification-using-Late-Fusion)(https://ieeexplore.ieee.org/abstract/document/10373867)
+#### [Music Genre Classification via Late Fusion CNN](https://github.com/Cho-SungHyun/Music-Genre-Classification-using-Late-Fusion)
 - Implementation of the **Late Fusion** strategy using STFT, MLS, and MFCC spectral features.
 - Comparative analysis of multi-modal features for enhanced classification accuracy.
 - *Published in IEEE Access, 2024.*
 
-#### [Efficient Neural Network for CT Image Analysis](https://github.com/Cho-SungHyun/An-Efficient-Neural-Network-based-on-Early-Compression-of-Sparse-CT-Slice-Images)(https://ieeexplore.ieee.org/abstract/document/9680749)
+#### [Efficient Neural Network for CT Image Analysis](https://github.com/Cho-SungHyun/An-Efficient-Neural-Network-based-on-Early-Compression-of-Sparse-CT-Slice-Images)
 - Research on channel compression techniques to accelerate medical image processing.
 - Focus on balancing computational efficiency with diagnostic precision.
 
