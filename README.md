@@ -27,9 +27,6 @@ I bridge the gap between advanced R&D and commercial scalability, ensuring data 
 - Research on channel compression techniques to accelerate medical image processing.
 - Focus on balancing computational efficiency with diagnostic precision.
 
-#### [Automated Hyperparameter Optimisation](https://github.com/Cho-SungHyun/assignment-machine-learning)
-- Practical applications of model selection and optimisation techniques.
-
 ---
 
 ### 📈 Certifications & Achievements
