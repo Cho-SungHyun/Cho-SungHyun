@@ -40,4 +40,4 @@ I bridge the gap between advanced R&D and commercial scalability, ensuring data 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/seonghyun-cho/) | [Email](mailto:saintcho94@gmail.com) | [Portfolio](https://cho-sunghyun.github.io/)
+[LinkedIn](https://www.linkedin.com/in/seonghyun-cho/) | [Email](mailto:saintcho94@gmail.com)
