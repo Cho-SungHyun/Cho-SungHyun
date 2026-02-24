@@ -34,7 +34,7 @@ I bridge the gap between advanced R&D and commercial scalability, ensuring data 
 
 ### 📈 Certifications & Achievements
 - **AWS Certified Machine Learning – Specialty** (2024)
-- **Lead Author**, "A case study on the integration of a snapshot hyperspectral field-portable imager solving fruit quality assessment," *SPIE*, 2025.
+- **Contributor**, "A case study on the integration of a snapshot hyperspectral field-portable imager solving fruit quality assessment," *SPIE*, 2025.
 - **Lead Author**, "CNN-based Music Genre Classification using Multiple Spectral Features," *IEEE Access*, 2024.
 
 ---
