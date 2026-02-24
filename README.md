@@ -9,7 +9,7 @@ I bridge the gap between advanced R&D and commercial scalability, ensuring data 
 ---
 
 ### 🛠 Technical Toolkit
-- **Languages:** Python (Expert), SQL (Expert), MATLAB, HTML/CSS
+- **Languages:** Python (Expert), SQL (Expert), MATLAB, C
 - **Frameworks:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy
 - **Specialties:** Multimodal Learning, Late Fusion CNNs, Bayesian Optimisation (BOHB)
 - **Cloud & DevOps:** AWS (Certified ML Specialist), Git, Unit Testing, CI/CD Workflows
@@ -18,12 +18,12 @@ I bridge the gap between advanced R&D and commercial scalability, ensuring data 
 
 ### 📚 Featured Research & Projects
 
-#### [Music Genre Classification via Late Fusion CNN](https://github.com/Cho-SungHyun/Music-Genre-Classification-using-Late-Fusion)
+#### [Music Genre Classification via Late Fusion CNN](https://github.com/Cho-SungHyun/Music-Genre-Classification-using-Late-Fusion)(https://ieeexplore.ieee.org/abstract/document/10373867)
 - Implementation of the **Late Fusion** strategy using STFT, MLS, and MFCC spectral features.
 - Comparative analysis of multi-modal features for enhanced classification accuracy.
 - *Published in IEEE Access, 2024.*
 
-#### [Efficient Neural Network for CT Image Analysis](https://github.com/Cho-SungHyun/An-Efficient-Neural-Network-based-on-Early-Compression-of-Sparse-CT-Slice-Images)
+#### [Efficient Neural Network for CT Image Analysis](https://github.com/Cho-SungHyun/An-Efficient-Neural-Network-based-on-Early-Compression-of-Sparse-CT-Slice-Images)(https://ieeexplore.ieee.org/abstract/document/9680749)
 - Research on channel compression techniques to accelerate medical image processing.
 - Focus on balancing computational efficiency with diagnostic precision.
 
@@ -34,7 +34,7 @@ I bridge the gap between advanced R&D and commercial scalability, ensuring data 
 
 ### 📈 Certifications & Achievements
 - **AWS Certified Machine Learning – Specialty** (2024)
-- **Lead Author**, "Snapshot HSI Integration for Quality Assessment," *SPIE*, 2025.
+- **Lead Author**, "A case study on the integration of a snapshot hyperspectral field-portable imager solving fruit quality assessment," *SPIE*, 2025.
 - **Lead Author**, "CNN-based Music Genre Classification using Multiple Spectral Features," *IEEE Access*, 2024.
 
 ---
